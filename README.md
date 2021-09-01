@@ -1,4 +1,4 @@
-# Machine_Leanring_Project
+# Covid-19 Cases Prediction
 CSCI-360 Machine Learning | 2020 Fall 
 
 By Yumo Yao, Wanyi Yang
